@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "eyebrow": "지금 내 상황부터 선택",
+  "title": "혹시 이런 상황인가요?",
+  "description": "상품부터 고르기보다, 지금 처한 상황을 기준으로 확인하는 편이 더 쉽습니다.",
+  "items": [
+    {
+      "title": "이사 예정",
+      "description": "이전설치·신규가입 조건 확인"
+    },
+    {
+      "title": "약정 종료",
+      "description": "재약정·통신사 변경 비교"
+    },
+    {
+      "title": "통신사 변경",
+      "description": "KT·SK·LG 조건 비교"
+    },
+    {
+      "title": "신규 설치",
+      "description": "신혼·자취·사업장 등"
+    }
+  ]
+}

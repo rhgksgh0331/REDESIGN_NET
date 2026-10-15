@@ -1,2 +1,2 @@
-# REDESIGN_NET
-인터넷 가입 상담 랜딩페이지
+# REDESIGN_NET V2 FLAT
+GitHub 웹 업로드용 단순 구조입니다.
